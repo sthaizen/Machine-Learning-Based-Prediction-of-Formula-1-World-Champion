@@ -80,7 +80,7 @@ Typical columns may include (examples):
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1) Clone the repo
 ```bash
