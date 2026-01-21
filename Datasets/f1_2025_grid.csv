@@ -1,0 +1,22 @@
+driverId,constructorId,driver_name,team_name,nationality,constructor_nationality,driver_position,constructor_position,driver_points,constructor_points
+900,100,Max Verstappen,Red Bull Racing,Dutch,Austrian,3,4,165,172
+901,100,Yuki Tsunoda,Red Bull Racing,Japanese,Austrian,17,4,10,172
+902,101,Charles Leclerc,Ferrari,Monegasque,Italian,5,2,119,222
+903,101,Lewis Hamilton,Ferrari,British,Italian,6,2,103,222
+904,102,George Russell,Mercedes,British,German,4,3,147,210
+905,102,Kimi Antonelli,Mercedes,Italian,German,7,3,63,210
+906,103,Lando Norris,McLaren,British,British,2,1,226,460
+907,103,Oscar Piastri,McLaren,Australian,British,1,1,234,460
+908,104,Fernando Alonso,Aston Martin,Spanish,British,14,8,16,36
+909,104,Lance Stroll,Aston Martin,Canadian,British,12,8,20,36
+910,105,Pierre Gasly,Alpine,French,French,13,10,19,19
+911,105,Franco Colapinto,Alpine,Australian,French,20,10,0,19
+912,106,Alexander Albon,Williams,Thai,British,8,5,46,59
+913,106,Carlos Sainz,Williams,Spanish,British,15,5,13,59
+914,107,Esteban Ocon,Haas F1 Team,French,American,10,9,23,29
+915,107,Oliver Bearman,Haas F1 Team,British,American,18,9,6,29
+916,108,Nico Hülkenberg,Kick Sauber,German,Swiss,9,6,37,41
+917,108,Gabriel Bortoleto,Kick Sauber,Brazilian,Swiss,19,6,4,41
+918,109,Liam Lawson,RB,New Zealander,Austrian,16,7,12,36
+919,109,Isack Hadjar,RB,French,Austrian,11,7,21,36
+920,105,Jack Doohan,Alpine (former),Australian,French,,,,
