@@ -76,7 +76,6 @@ Typical columns may include (examples):
 **Target column**
 - `champion` (0/1)
 
-> If your dataset is private, you can keep it out of GitHub using `.gitignore`.
 
 ---
 
